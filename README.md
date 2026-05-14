@@ -189,8 +189,8 @@ inconnu-obfuscator/
 ├── src/
 │   ├── js-obfuscator.js  ← JavaScript obfuscation engine
 │   └── html-obfuscator.js← HTML obfuscation engine
-├── gui/
-│   └── index.html        ← Browser-based GUI
+├── inconnu/
+│   └── inconnu.html        ← Browser-based GUI
 ├── test-files/
 │   ├── test.js           ← Sample JS for testing
 │   └── test.html         ← Sample HTML for testing
