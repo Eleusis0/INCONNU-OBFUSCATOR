@@ -212,4 +212,4 @@ Expected: **23/23 tests passed**
 
 ## License
 
-MIT — Made by **inconnu boy** | [INCONNU-BOY](https://github.com/INCONNU-BOY)
+MIT — Made by **Eleusis** | [Eleusis](https://github.com/INCONNU-BOY)
